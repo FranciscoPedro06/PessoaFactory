@@ -11,5 +11,11 @@ public class Main {
         Pessoa pessoa4 = pessoaFactory.criarPessoa("Henrique", 16);
         Pessoa pessoa5 = pessoaFactory.criarPessoa("Felipe", 17);
 
+        System.out.println(pessoa);
+        System.out.println(pessoa1);
+        System.out.println(pessoa2);
+        System.out.println(pessoa3);
+        System.out.println(pessoa4);
+        System.out.println(pessoa5);
     }
 }
